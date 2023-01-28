@@ -1,6 +1,6 @@
 <img 
   align="center" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpanksMcYeet&layout=compact&theme=tokyonight&langs_count=2" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpanksMcYeet&layout=compact&theme=tokyonight&langs_count=8" 
   alt="top languages" />
 
 <img 
